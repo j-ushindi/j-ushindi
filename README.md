@@ -1,4 +1,4 @@
-# Hey, I'm Joseph 👋
+# Hey, I'm Joseph 
 
 **Business Analyst · Data Scientist · Nairobi, Kenya 🇰🇪**
 
@@ -13,7 +13,7 @@ I build things that make sense of data — ML pipelines, NLP tools, AI-powered d
 
 ---
 
-### 🧠 A bit about me
+###  A bit about me
 
 ```json
 {
@@ -24,7 +24,7 @@ I build things that make sense of data — ML pipelines, NLP tools, AI-powered d
 
 ---
 
-### 🛠 Skills & tools
+###  Skills & tools
 
 **Data & ML**
 `Python` `pandas` `scikit-learn` `NLP` `matplotlib` `Jupyter`
@@ -40,7 +40,7 @@ I build things that make sense of data — ML pipelines, NLP tools, AI-powered d
 
 ---
 
-### 🚀 Featured projects
+###  Featured projects
 
 - **[AI-Powered Customer Review Analysis](https://github.com/j-ushindi/AI-Powered-Customer-Review-Analysis)** — Sentiment analysis + topic extraction dashboard built with Python, Streamlit & NLP
 - **[Email Spam Detector](https://github.com/j-ushindi/email-spam-detector)** — ML classification model with Streamlit web app
@@ -48,13 +48,13 @@ I build things that make sense of data — ML pipelines, NLP tools, AI-powered d
 
 ---
 
-### 📊 GitHub stats
+###  GitHub stats
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ushindi&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-ushindi)
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=flat&logo=google-chrome&logoColor=white)](https://datawithushindi.com)
